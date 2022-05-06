@@ -1,0 +1,108 @@
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\KursBlog\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\KursBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache

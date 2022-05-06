@@ -1,0 +1,934 @@
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+C:\Users\syildirim\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Humanizer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\View.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\View.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\UserLayout.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\test.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\TestView.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\UserTest.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Humanizer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\UserTest.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\TestView.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\UserLayout.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\View.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+H:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Humanizer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\UserTest.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\TestView.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\UserLayout.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\View.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\UserTest.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\TestView.cshtml.g.cs
+E:\önemliler\YazılımProjelerim\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\UserLayout.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.Development.json
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\appsettings.json
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.exe
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.deps.json
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.json
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.runtimeconfig.dev.json
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ref\WebAppUI.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\WebAppUI.Views.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Humanizer.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\BusinessLayer.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\KursBlog\WebAppUI\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.AssemblyReference.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfoInputs.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.AssemblyInfo.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CoreCompileInputs.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.MvcApplicationPartsAssemblyInfo.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorAssemblyInfo.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.Manifest.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\staticwebassets\WebAppUI.StaticWebAssets.xml
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\scopedcss\bundle\WebAppUI.styles.css
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.input.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.TagHelpers.output.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorCoreGenerate.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\UserTest.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Test\TestView.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\UserLayout.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\View.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.RazorTargetAssemblyInfo.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.Views.pdb
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.csproj.CopyComplete
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.dll
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\ref\WebAppUI.dll
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.pdb
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\WebAppUI.genruntimeconfig.cache
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+E:\önemliler\KursBlog\WebAppUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs

@@ -1,0 +1,72 @@
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+E:\önemliler\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\KursBlog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+E:\önemliler\KursBlog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+E:\önemliler\KursBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

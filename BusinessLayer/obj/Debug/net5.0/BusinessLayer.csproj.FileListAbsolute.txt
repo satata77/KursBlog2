@@ -1,0 +1,102 @@
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\ADAM\Desktop\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+E:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\ADAM\Desktop\önemliler\13-4-2022 ders oncesi\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+H:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+D:\önemliler\YazılımProjelerim\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\önemliler\KursBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+E:\önemliler\KursBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
